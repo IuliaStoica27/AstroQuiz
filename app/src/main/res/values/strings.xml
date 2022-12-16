@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AstroQuiz</string>
+    <string name="start">Start</string>
+    <string name="astrology_quiz">Astrology\nQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string-array name="questions">
+        <item>Which of the following zodiac signs is a water sign?</item>
+        <item>Which of the following signs is a mutable sign?</item>
+        <item>Which of the following signs is an earth sign?</item>
+        <item>Which planet rules Virgo sign?</item>
+        <item>Which planet rules Libra sign?</item>
+    </string-array>
+    <string-array name="rb1">
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Aries</item>
+        <item>Mars</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="rb2">
+        <item>Taurus</item>
+        <item>Libra</item>
+        <item>Virgo</item>
+        <item>Jupiter</item>
+        <item>Venus</item>
+    </string-array>
+    <string-array name="rb3">
+        <item>Scorpio</item>
+        <item>Aquarius</item>
+        <item>Cancer</item>
+        <item>Mercury</item>
+        <item>Mars</item>
+    </string-array>
+    <string-array name="correctAnswers">
+        <item>Scorpio</item>
+        <item>Virgo</item>
+        <item>Virgo</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+    </string-array>
+</resources>
